@@ -1,0 +1,19 @@
+<Java 개발 환경 설정>
+작업용 폴더 구조
+c:\MyStudy
+  - 10_Java : 자바코드 작성
+  - util : 프로그램(압축해제)
+  - util_zip : 개발관련 필요 프로그램(소프트웨어)
+
+-----------------
+● JDK8 다운로드 링크
+https://www.oracle.com/kr/java/technologies/downloads/#java8-windows
+
+● 이클립스 다운로드 링크(Eclipse IDE for Enterprise Java Developers)
+https://www.eclipse.org/downloads/packages/release/2020-12/r
+-------------------
+이클립스 설정 변경(Window > Preferences)
+- 작업창 : Java EE -> Java
+- text encoding : MS949 -> UTF-8
+- JRE 등록 : JDK8 설치위치 지정
+
